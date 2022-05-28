@@ -1,4 +1,4 @@
-# CLIP_contextualAnalysis
+# CLIP Contextual Analysis
 Experimentation on CLIP's classification behaviour by changing prompts and contextual information
 
 
